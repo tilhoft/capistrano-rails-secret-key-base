@@ -7,7 +7,7 @@ With this gem you can generate a new secret key base for rails, directly written
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'capistrano-rails-secret-key-base', :git => "git://github.com/tilhoft/wicked_pdf.git"
+gem 'capistrano-rails-secret-key-base', :git => "git://github.com/tilhoft/capistrano-rails-secret-key-base.git"
 ```
 
 And then execute:
